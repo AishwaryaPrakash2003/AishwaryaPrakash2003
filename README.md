@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0db584db-2a64-4520-9219-35d845971efd)## Hi there 👋I'm Aishwarya!
+![image](https://github.com/user-attachments/assets/0db584db-2a64-4520-9219-35d845971efd)
 
 
 <!-- Header Image -->
