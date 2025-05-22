@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋I'm Aishwarya!
 
-<!--
-**AishwaryaPrakash2003/AishwaryaPrakash2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Header Image -->
+<img src="https://github.com/aishwaryaprakash6362/aishwaryaprakash6362/blob/main/banner.png" alt="Banner" style="width:100%;"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Aishwarya! 👋</h1>
+
+<p align="center">
+  Aspiring Software Developer | MCA Student | Passionate Learner
+</p>
+
+---
+
+### 👩‍💻 About Me
+- 🎓 Master of Computer Applications (MCA) student  
+- 💻 Learning Full-Stack Web Development & DSA  
+- 🌱 Always curious and exploring new tech  
+- 🎯 Looking for internship / entry-level IT opportunities  
+- 📧 *Email:* aishwaryaprakash6362@gmail.com  
+!>
