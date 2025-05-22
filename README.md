@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 Master of Computer Applications (MCA) student  
-- 💻 Learning Full-Stack Web Development & DSA  
+- 💻 Learning Cloud Computing  
 - 🌱 Always curious and exploring new tech  
 - 🎯 Looking for internship / entry-level IT opportunities  
 - 📧 *Email:* aishwaryaprakash6362@gmail.com  
